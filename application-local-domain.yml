@@ -30,4 +30,5 @@ spring:
     port: '{cipher}dbf5e1b3e4e0031b448d7aad539546ac9d40d163201093aaa809d97ac7f7d7c2'
     username: '{cipher}44d98a21dd0f7b6ff4044edd054a1e6fee8fc41f9eb76d62ae17a6759f8fa7cb'
     password: '{cipher}44d98a21dd0f7b6ff4044edd054a1e6fee8fc41f9eb76d62ae17a6759f8fa7cb'
+test: 1
 
